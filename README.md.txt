@@ -3,4 +3,5 @@
 -minist.py minist dosyasının numpy array e dönüştürme kodlarını içerir
 -minist.py minist resimlerini otomatik indiren kodlarıda barındırır extra indirmeye gerek yoktur 1 kere minist.py
 çalıştırılması yeterlidir.
+3 hidden layer ,Image Classification Neural Net.
  
